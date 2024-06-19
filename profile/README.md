@@ -1,4 +1,4 @@
-# Destinatik Team [Capstone Based Project C241-PS022]
+# Destinatik Team [Product-based Capstone Project C241-PS022 Bangkit 2024 H1]
 ### Background
 Traveling has become a popular hobby with high interest, and it contributes to the revenue of a region through tourist attractions. People tend to visit famous (viral) places, which impacts other attractions. This further amplifies the popularity of well-known tourist attractions while leaving lesser-known ones behind. The lack of information about tourist attractions contributes to their low visitor numbers. However, each tourist attraction has its own charm and uniqueness. The Department of Culture and Tourism of Bandung City recorded approximately 7.7 million tourists visiting Bandung.
 
