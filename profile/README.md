@@ -1,10 +1,10 @@
 # Destinatik Team [Product-based Capstone Project C241-PS022 Bangkit 2024 H1]
-### Background
+## Background
 Traveling has become a popular hobby with high interest, and it contributes to the revenue of a region through tourist attractions. People tend to visit famous (viral) places, which impacts other attractions. This further amplifies the popularity of well-known tourist attractions while leaving lesser-known ones behind. The lack of information about tourist attractions contributes to their low visitor numbers. However, each tourist attraction has its own charm and uniqueness. The Department of Culture and Tourism of Bandung City recorded approximately 7.7 million tourists visiting Bandung.
 
 Based on these issues and information, we have taken the initiative to develop a travel application that facilitates tourists in discovering recommended tourist attractions. "Destinatik" is a mobile application aimed at providing recommendations for tourist destinations based on visitor ratings, user preferences, and strategic locations. By utilizing artificial intelligence (AI) technology and machine learning modeling, we have built the application using collaborative filtering algorithms.
 
-### Meet Our Team!
+## Meet Our Team!
 | No. | Nama                        | Universitas/Institusi                 | Bidang Keahlian     | Student ID   |
 |-----|-----------------------------|---------------------------------------|---------------------|--------------|
 | 1.  | Muhammad Khairan Karim      | Sekolah Tinggi Teknologi Migas        | Machine learning    | M660D4KY2034 |
